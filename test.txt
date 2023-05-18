@@ -32,3 +32,13 @@
 |/  
 * 39c3ade Add a
 * d7aa88e Initial commit
+-----------------------
+On branch hm/fixed
+Your branch is up to date with 'origin/hm/fixed'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   test.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
